@@ -6,3 +6,5 @@ Orange
 Blue
 Red
 These are the colors of the rainbow.
+
+Pink fluffy unicorns dancing on rainbows!
