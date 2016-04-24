@@ -14,4 +14,6 @@ Yellow
 Red is hot
 These are the colors of the rainbow.
 And the unicorn.
-Pony
+Pony:
+Peter Pony drinks a cup of oolong tea.
+It tastes wonderful.
