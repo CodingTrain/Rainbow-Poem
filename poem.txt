@@ -9,7 +9,7 @@ is not orange either
 Blue is cold
 Teal
 Green is calm
-Brown
+Brown 
 Indigo
 Clouds
 Unicorn
@@ -23,3 +23,4 @@ Peter Pony drinks a cup of oolong tea.
 It tastes wonderful.
 There must have been some cicadas on those leaves, how lucky!
 Learning with shiffman is like looking at a beautiful rainbow everyday.
+Like the rainbow after storm in New York the other day.
