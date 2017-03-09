@@ -114,3 +114,6 @@ holo
 superline 
 miniline ;-;
 Cześć :)
+
+if (logic === poetry)
+Unicorn++;
