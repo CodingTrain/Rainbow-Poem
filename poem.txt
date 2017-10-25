@@ -1,4 +1,4 @@
-i think rainbow is very beautiful, and more importantly, your video is very good.
+﻿i think rainbow is very beautiful, and more importantly, your video is very good.
 国外的小伙伴们，你们吼呀！
 Hello World!
 
@@ -237,5 +237,10 @@ Swift be thine approaching flight,
 Come soon, soon!
 
 - Percy Bysshe Shelley
+
+We're off, we're off
+To seek a new beginning 
+Oh look- there's a rainbow!
+What fun this will be!
  
  ******************************************************************
