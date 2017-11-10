@@ -1,5 +1,9 @@
 You will(Need no){ 
  Example at=ALL;
- if (You.are(GOOD))
+ if (You.are(BARELY_GOOD))
   at.writing(Your.CODE);
 }
+while(1)
+{
+ printf("You're awesome");
+ }
