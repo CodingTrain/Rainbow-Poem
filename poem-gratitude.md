@@ -1,4 +1,4 @@
- ## <center>Gratitude.</center>
+## <center>Gratitude.</center>
 
 <h4><center>Sometimes you travel in the dusts of this Earth
 and then you find a rainbow that tells you
@@ -13,4 +13,4 @@ Now I'm creating here this humble poem
 to say that I'm greatful to find this Repo
 which is full o poets, I say cheers to all of them.</h4></center><br>
 
-##### Miguel_Canto leveuf (add your poet name)
+##### Miguel_Canto leveuf (add your verses and your poet name :-) )
