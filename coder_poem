@@ -3,3 +3,5 @@ You will(Need no){
  if (You.are(GOOD))
   at.writing(Your.CODE);
 }
+
+console.log(fin)
