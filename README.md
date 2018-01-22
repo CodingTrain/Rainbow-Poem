@@ -2,4 +2,4 @@
 This is a repo for my rainbow poem.
 You'll definitely gonna love it!!
 
-¡Hola! Esto es un poema del arco iris.
+¡Hola! Esta es una base de datos con poemas acerca de arco iris! 🌈
