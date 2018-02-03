@@ -2,4 +2,6 @@ You will(Need no){
  Example at=ALL;
  if (You.are(GOOD))
   at.writing(Your.CODE);
+  else
+  before.writing("watch the coding train");
 }
