@@ -1,5 +1,20 @@
 You will(Need no){ 
- Example at=ALL;
- if (You.are(GOOD))
+Example at=ALL;
+if (You.are(GOOD))
   at.writing(Your.CODE);
+}
+/* 
+ * -------------------------------------
+ * This is where i need to place my code 
+ * -------------------------------------
+ *                  ^_^
+ */
+
+if(code != '')
+{
+   my code will be in this place ...
+} 
+else
+{
+   I don't have any code ????
 }
