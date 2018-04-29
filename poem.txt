@@ -236,6 +236,12 @@ I ask of thee, beloved Night–
 Swift be thine approaching flight,
 Come soon, soon!
 
+Errors are red. My syntax highlighting is blue,
+I love learning about code,
+And so should you,
+I love watching The Coding Train,
+And Fun Fun Function too.
+
 - Percy Bysshe Shelley
  
  ******************************************************************
