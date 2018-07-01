@@ -1,7 +1,18 @@
+all kinds of colors:
 pull request blue
 github black
 binary red
-p as in pink pink
+
+html brown
+css orange
+javascript yellow
+
+python green
+github fork grey 
+github merge purple
+
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- :)
+
 
 i think rainbow is very beautiful, and more importantly, your video is very good.
 国外的小伙伴们，你们吼呀！
