@@ -39,7 +39,6 @@ Earth Day is my favorite color.
 I am thirsty.
 You are not yourself when you are thirsty, my friend. 
 Purple rain
-<<<<<<< HEAD
 tis not pink
 tis not orange either
 could be Blue
@@ -48,7 +47,6 @@ Indigo children
 Recycle!
 Unicorns exist
 Yellow river
-=======
 purple rain
 I only wanted to see you
 bathing in the purple rain!
@@ -64,15 +62,10 @@ I only wanted to see you bathing in the shallow tide pool
 Blue is cold but also cool!
 Teal
 Green is calm
-<<<<<<< HEAD
-Maroon
-Purple is deep!
-=======
 Eel
 Maroon five four three two one!
-Purple
+Purple is deep!
 Lip balm
->>>>>>> master
 Brown 
 Indigo girls are singing
 Earth day is a day
@@ -84,17 +77,12 @@ I said to myself.
 Keep Calm and Carry On!
 Yellow, the color of the best-known plasma sphere
 Is the color of the year.
->>>>>>> pr/95
 Red is hot
 Hear! Hear!
 East or West Dannie is the best!
 These are the colors of the rainbow.
-<<<<<<< HEAD
-And the unicorn.
-Pony, Pony, Pony...
-=======
 And the rainbow coloured unicorn.
-Pony
+Pony, Pony, Pony...
 unicorns have have horns and that ryhmes (no pun intended)
 ponys are small baby horses
 Peter Pony drinks a cup of oolong tea.
@@ -304,4 +292,6 @@ Akoy pinoy na mayroong sariling wika
 
 --Florante
 ******************************************************************
->>>>>>> pr/95
+
+unicorn unicorn unicorn
+that is not the color of the rainbow
