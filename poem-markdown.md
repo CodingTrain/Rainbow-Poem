@@ -2,6 +2,7 @@
 <hr>
 *<p align="center">
 Today is Earth Day.  
+Which is not Mars,
 I love Earth Day.  
 Purple rain   
 Is not pink   
