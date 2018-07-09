@@ -1,9 +1,13 @@
+The Rainbow and the Unicorn and the Pony
 i think rainbow is very beautiful, and more importantly, your video is very good.
 国外的小伙伴们，你们吼呀！
 Hello World!
 
 What a great tutorial, many thanks from edinburghrules :) 
 newly here
+
+白日依山尽，长江入海流
+江虹路立交今天开通 20180701
 
 にじ
 あか
@@ -12,6 +16,7 @@ newly here
 きれいだな
 hello
 Cześć !
+#744
 Learning github functionalities
 The Rainbow and the Unicorn and the Pony and don't forget the Singing Starfish!
 hello!!!!!!!
@@ -34,6 +39,16 @@ Earth Day is my favorite color.
 I am thirsty.
 You are not yourself when you are thirsty, my friend. 
 Purple rain
+<<<<<<< HEAD
+tis not pink
+tis not orange either
+could be Blue
+or maybe Green
+Indigo children
+Recycle!
+Unicorns exist
+Yellow river
+=======
 purple rain
 I only wanted to see you
 bathing in the purple rain!
@@ -49,12 +64,17 @@ I only wanted to see you bathing in the shallow tide pool
 Blue is cold but also cool!
 Teal
 Green is calm
-Eel
+<<<<<<< HEAD
 Maroon
+Purple is deep!
+=======
+Eel
+Maroon five four three two one!
 Purple
 Lip balm
+>>>>>>> master
 Brown 
-Indigo
+Indigo girls are singing
 Earth day is a day
 And I should say:
 Clouds
@@ -64,10 +84,15 @@ I said to myself.
 Keep Calm and Carry On!
 Yellow, the color of the best-known plasma sphere
 Is the color of the year.
+>>>>>>> pr/95
 Red is hot
 Hear! Hear!
 East or West Dannie is the best!
 These are the colors of the rainbow.
+<<<<<<< HEAD
+And the unicorn.
+Pony, Pony, Pony...
+=======
 And the rainbow coloured unicorn.
 Pony
 unicorns have have horns and that ryhmes (no pun intended)
@@ -118,7 +143,12 @@ Running through the clouds
 making dreams come true
 they all hear the train
 coming to challenge their brains
+Excellent thoughtful line.
 
+vidimo se i sutra
+hvala iz srbije!
+
+pozdrav iz novog sada
 
 Party Hard! 
 
@@ -239,3 +269,39 @@ Come soon, soon!
 - Percy Bysshe Shelley
  
  ******************************************************************
+ 
+ Akoy isang pinoy sa pusot diwa
+
+Pinoy na isinilang sa ating bansa
+
+Akoy hindi sanay sa wikang mga banyaga
+
+Akoy pinoy na mayroong sariling wika
+
+Wikang pambansa ang gamit kong salita
+
+Bayan kong sinilangan, hangad kong lagi ang kalayaan
+
+Si Gat. Jose Rizal nooy nagwika
+
+Siya ay nagpangaral sa ating bansa
+
+Ang hindi raw magmahal sa sariling wika
+
+Ay higit pa ang amoy sa mabahong isda
+
+Wikang pambansa ang gamit kong salita
+
+Bayan kong sinilangan, hangad kong lagi ang kalayaan
+
+Akoy isang pinoy sa pusot diwa
+
+Pinoy na isinilang sa ating bansa
+
+Akoy hindi sanay sa wikang mga banyaga
+
+Akoy pinoy na mayroong sariling wika
+
+--Florante
+******************************************************************
+>>>>>>> pr/95
