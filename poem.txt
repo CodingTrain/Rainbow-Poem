@@ -37,6 +37,9 @@ hi this is kumar arduino
 Hello from Melbourne, AU!
 Haha this is a great tutorial so far! - maisamwasti
 
+This is just a sentence in Japanese. 
+こんにちは。２０２０年東京オリンピックぜひ来てください。
+
 白日依山尽，长江入海流
 江虹路立交今天开通 20180701
 
@@ -48,6 +51,7 @@ June 14 2018 edit to the poem by JI
 きいろ
 きれいだな
 hello
+
 Cześć !
 #744
 Learning github functionalities
