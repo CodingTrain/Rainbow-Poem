@@ -1,0 +1,9 @@
+You will(Need no){ 
+ Example at=ALL;
+ if (You.are(GOOD))
+  at.writing(Your.CODE);
+  else
+ { You will(Need to);
+ exit();
+ }
+}
