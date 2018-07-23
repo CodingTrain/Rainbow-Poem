@@ -53,6 +53,8 @@ The colors of the rainbow
 This is a fix for Issue #804
 June 14 2018 edit to the poem by JI 
 
+Fix issue
+
 にじ
 あか
 あお
