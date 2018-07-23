@@ -44,9 +44,13 @@ Haha this is a great tutorial so far! - maisamwasti
 This is just a sentence in Japanese. 
 こんにちは。２０２０年東京オリンピックぜひ来てください。
 
+Roy G Biv
+The colors of the rainbow
+
 白日依山尽，长江入海流
 江虹路立交今天开通 20180701
 
+This is a fix for Issue #804
 June 14 2018 edit to the poem by JI 
 
 にじ
