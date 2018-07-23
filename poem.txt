@@ -11,6 +11,8 @@ The colors of the rainbow
 白日依山尽，长江入海流
 江虹路立交今天开通 20180701
 
+This is a fix for Issue #804
+
 にじ
 あか
 あお
