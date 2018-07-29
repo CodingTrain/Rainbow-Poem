@@ -1,6 +1,6 @@
 
 Chi desidera vedere l’arcobaleno, deve imparare ad amare la pioggia.
-(Paulo Coelho) 
+(Paulo Coelho)
 
 all kinds of colors:
 pull request blue
@@ -12,7 +12,7 @@ css orange
 javascript yellow
 
 python green
-github fork grey 
+github fork grey
 github merge purple
 
 commit by jandrocamus.
@@ -29,19 +29,19 @@ Greetings from South Africa. I enjoy watching your tutorials, God Bless.
 国外的小伙伴们，你们吼呀！
 
 Hello World!
-Earth day 
-Hi Recycle 
-What a great tutorial, many thanks from edinburghrules :) 
+Earth day
+Hi Recycle
+What a great tutorial, many thanks from edinburghrules :)
 newly here
 abe faltu
 My time for the learn...........////............
-My fist time not work correctly about pull request 
+My fist time not work correctly about pull request
 I love 4th of July!
 hi this is kumar arduino
 Hello from Melbourne, AU!
 Haha this is a great tutorial so far! - maisamwasti
 
-This is just a sentence in Japanese. 
+This is just a sentence in Japanese.
 こんにちは。２０２０年東京オリンピックぜひ来てください。
 
 Roy G Biv
@@ -51,7 +51,7 @@ The colors of the rainbow
 江虹路立交今天开通 20180701
 
 This is a fix for Issue #804
-June 14 2018 edit to the poem by JI 
+June 14 2018 edit to the poem by JI
 
 Fix issue
 
@@ -65,14 +65,14 @@ hello
 Cześć !
 #744
 Learning github functionalities
-Github is great and so are your videos! 
+Github is great and so are your videos!
 Let's go to candy mountain Charlie, CANDY MOUNTAIN!
 The Rainbow and the Unicorn and the Pony and don't forget the Singing Starfish!
 hello!!!!!!!
 good luck
 The starfish is a smart fish
 Rainbows happen following rain when the sun comes out
-Today is Earth Day.
+Today is not Earth Day.
 
 Now I'm part of the Coding Train! Greetings from Mexico!! 🇲🇽
 
@@ -89,7 +89,7 @@ A day to smile and not to pout!
 "I love Earth Day.", says Peter Pony.
 
 "Today is 28th December 2016...!!!"
-Today is sometimes Thursday. 
+Today is sometimes Thursday.
 I enjoy macaroni
 Today it is raining
 Yesterday was sunny skies.
@@ -97,7 +97,7 @@ And tomorrow it will rain again.
 "Well I love the sea," sang the stupendous starfish.
 Earth Day is my favorite color.
 I am thirsty.
-You are not yourself when you are thirsty, my friend. 
+You are not yourself when you are thirsty, my friend.
 Purple rain
 tis not pink
 tis not orange either
@@ -128,7 +128,7 @@ Eel
 Maroon five four three two one!
 Purple is deep!
 Lip balm
-Brown 
+Brown
 Indigo girls are singing
 Earth day is a day
 And I should say:
@@ -140,7 +140,7 @@ I said to myself.
 Keep Calm and Carry On!
 Yellow, the color of the best-known plasma sphere
 Red, the color of passion
-Green, the color of nature 
+Green, the color of nature
 Is the color of the year.
 Red is hot
 Hear! Hear!
@@ -212,17 +212,17 @@ hvala iz srbije!
 
 pozdrav iz novog sada
 
-Party Hard! 
+Party Hard!
 
 HI INSTEAD  Swimshow
 This is cool
-I love this tutorial 
+I love this tutorial
 
 Nice Tutorial, easy to understand the concept
 >>>>>> <<<<<<<
 nice vids adding my own spin here
 >>>>>> <<<<<<
-I love you videos and sense of humor. Please change my repo called github tutorial. You can add comments and make changes if you want. 
+I love you videos and sense of humor. Please change my repo called github tutorial. You can add comments and make changes if you want.
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ magical poem dust!
 
 Coding Rainbow
@@ -233,7 +233,7 @@ Every time someone experiences true bliss, a rainbow gets created
 
 I'm adding a line :V
 holo
-superline 
+superline
 miniline ;-;
 Cześć :)
 LIne 117 added
@@ -273,7 +273,7 @@ Fix #647
 
 MAMAAAAAAAAA OOOOOOOOOHOOOOOOHOOHHH didn't mean to make you cry...
 
-Hyvä tutoriaali, fine tutorial! 
+Hyvä tutoriaali, fine tutorial!
 
 Awesome Tutorial
 Rainbows lead to gold
@@ -285,16 +285,16 @@ I do not need to be genius to be human;
 But I need your smile to be happy.
                        --Charles Chaplin
 
-“Study while others are sleeping; 
-work while others are loafing; 
-prepare while others are playing; 
+“Study while others are sleeping;
+work while others are loafing;
+prepare while others are playing;
 and dream while others are wishing.”
 
  William Arthur Ward
- 
- 
- 
-********************************************** 
+
+
+
+**********************************************
  To Night
 Swiftly walk o’er the western wave,
 Spirit of Night!
@@ -345,9 +345,9 @@ And Fun Fun Function too.
 
 - Percy Bysshe Shelley
 
-Just watched the youtube video and am adding this for practice. 
+Just watched the youtube video and am adding this for practice.
 I've edited some stuff here.
- 
+
 ******************************************************************
 
 Unicorn Jokes: Let's make some Jokes about this Poem!
@@ -355,7 +355,7 @@ Unicorn Jokes: Let's make some Jokes about this Poem!
 Q: How do you say unicorn in Spanish?
 A: Unamaize
 
- ****************************************************************** 
+ ******************************************************************
  I like Ponies -- just some random guy
 ******************************************************************
 Love from Austrlia!
@@ -394,7 +394,7 @@ You and I.
 ************************************************************************
 
  Verse from poet Alama Iqbal
- 
+
 ******************************************************************
 
 Early in the evening a song bird
@@ -446,7 +446,7 @@ Akoy pinoy na mayroong sariling wika
 
 Glad i found your video ! Cool Github tutorial :)
 
-its really a nice tutorial :) 
+its really a nice tutorial :)
 ******************************************************************
 
 EOF
