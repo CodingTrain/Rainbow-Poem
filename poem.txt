@@ -450,3 +450,10 @@ its really a nice tutorial :)
 ******************************************************************
 
 EOF
+
+Besides, I've added some fruits I love.
+
+Banana
+Watermelon
+Honeydew
+Grape
