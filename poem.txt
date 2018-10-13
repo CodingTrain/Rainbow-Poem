@@ -2,7 +2,7 @@
 Chi desidera vedere l’arcobaleno, deve imparare ad amare la pioggia.
 (Paulo Coelho) 
 
-all kinds of colors:
+All kinds of colors:
 pull request blue
 github black
 binary red
@@ -10,12 +10,15 @@ binary red
 html brown
 css orange
 javascript yellow
+p5 pink
+processing navy
 
 python green
 github fork grey 
 github merge purple
 
-commit by jandrocamus.
+(initial) commit by jandrocamus.
+edited by SphaeriCactus
 
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- :)
 
