@@ -1,0 +1,4 @@
+Roses are Red
+Violets are Blue
+This is pretty cool
+So are you.FlexNet Publisher (formerly known as FLEXlm) is a software license manager from Flexera Software which implements license management and is intended to be used in corporate environments to provide floating licenses to multiple end users of computer software. Computer software can be licensed in a variety of ways.
