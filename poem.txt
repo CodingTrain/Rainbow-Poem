@@ -449,4 +449,5 @@ Glad i found your video ! Cool Github tutorial :)
 its really a nice tutorial :) 
 ******************************************************************
 
+Thanks for the tutorial on Github
 EOF
