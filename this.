@@ -1,0 +1,4 @@
+#!/never/forget/the/this dot
+
+// i'm gonna do
+console.log(this.this.this.this.song)
