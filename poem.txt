@@ -1,3 +1,12 @@
+Ceiling to the Stars
+Up in the sky, where the stars shine bright,
+That’s where I will be;
+Enjoying the thrills of outer space,
+And all there is to see.
+
+Chi desidera vedere l’arcobaleno, deve imparare ad amare la pioggia.
+(Paulo Coelho) 
+
 Więc widziałem za oknem całą jaskrawość, 
 ale ciągle nie mogłem określić tego uczucia, 
 jakie odczuwałem, że widzę to wszystko: 
@@ -9,15 +18,6 @@ nie uniesienie, ale co?
 Co rozlewało się po mnie, jakie uczucie, 
 że dożyłem tej chwili, żeby dojść do tego 
 miejsca, żeby zobaczyć całą jaskrawość? :)
-
-Ceiling to the Stars
-Up in the sky, where the stars shine bright,
-That’s where I will be;
-Enjoying the thrills of outer space,
-And all there is to see.
-
-Chi desidera vedere l’arcobaleno, deve imparare ad amare la pioggia.
-(Paulo Coelho) 
 
 all kinds of colors:
 pull request blue
@@ -478,3 +478,4 @@ its really a nice tutorial :)
 ******************************************************************
 
 EOF
+Pink fluffy unicorns dancing on rainbows!
