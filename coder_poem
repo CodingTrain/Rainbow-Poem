@@ -7,3 +7,20 @@ You will(Need no){
  exit();
  }
 }
+
+
+//Swift
+
+let name = Andre
+let animal = Dog
+let feeling = loves
+
+let poem = "\(name) really \(feeling) that \(animal)!"
+
+func printPoem(){
+   print(poem)
+}
+
+main(){
+   printPoem()//Andre really loves that dog!
+} 
