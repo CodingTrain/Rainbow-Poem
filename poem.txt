@@ -46,12 +46,18 @@ New line from Nottingham
 Greetings from South Africa. I enjoy watching your tutorials, God Bless.
 
 国外的小伙伴们，你们吼呀！
+<<<<<<< HEAD
+=======
+Hello World!
+Tashi Delek
+>>>>>>> 77f4af445137b7e50842335a52afd82537d2ecb8
 
 Hello World!
 Earth day
 Hi Recycle
 What a great tutorial, many thanks from edinburghrules :)
 newly here
+<<<<<<< HEAD
 abe faltu
 My time for the learn...........////............
 My fist time not work correctly about pull request
@@ -74,6 +80,10 @@ June 14 2018 edit to the poem by JI
 
 Fix issue
 
+=======
+ 
+Tashi Delek to all
+>>>>>>> 77f4af445137b7e50842335a52afd82537d2ecb8
 にじ
 あか
 あお
