@@ -1,4 +1,4 @@
-You will(Need no){ 
+You will(Need no){
  Example at=ALL;
  if (You.are(GOOD))
   at.writing(Your.CODE);
@@ -7,7 +7,6 @@ You will(Need no){
  exit();
  }
 }
-
 
 //Swift
 
@@ -23,4 +22,7 @@ func printPoem(){
 
 main(){
    printPoem()//Andre really loves that dog!
-} 
+}
+
+i added something
+added more
