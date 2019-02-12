@@ -7,6 +7,7 @@ You will(Need no){
  exit();
  }
 }
+<<<<<<< HEAD
 
 //Swift
 
@@ -26,3 +27,6 @@ main(){
 
 i added something
 added more
+=======
+sadsadsadaasd
+>>>>>>> 0d63924a0d53bf144ad173510f5a84fdff20b486
