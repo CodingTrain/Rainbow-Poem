@@ -19,7 +19,6 @@ And i love coding.
 最上面在bilibili看的兄弟
 shiffman看了后估计一口老血喷到屏幕上
 自己的视频怎么跑到一个从来都没有听说过的网站去了
-
 黑夜给了我黑色的眼睛
 我却用它寻找光明
 test
@@ -31,3 +30,5 @@ testing the function that automatically close the issue
 真不错
 来自祖国大西北的留言~
 This is a message from XingJiang China.
+add something by nicedee
+ni hao master.
