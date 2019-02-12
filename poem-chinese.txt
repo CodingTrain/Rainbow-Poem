@@ -29,3 +29,5 @@ BILIBILI,没想到是个学习网站
 testing the ability of refering to the specific issue number
 testing the function that automatically close the issue
 真不错
+来自祖国大西北的留言~
+This is a message from XingJiang China.
