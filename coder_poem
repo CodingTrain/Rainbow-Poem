@@ -1,5 +1,34 @@
-You will(Need no){ 
+You will(Need no){
  Example at=ALL;
- if (You.are(GOOD))
+ if (You.are(BARELY_GOOD))
   at.writing(Your.CODE);
+  else
+ { You will(Need to);
+ exit();
+ }
 }
+
+while(1)
+{
+ printf("You're awesome");
+ }
+
+//Swift
+
+let name = Andre
+let animal = Dog
+let feeling = loves
+
+let poem = "\(name) really \(feeling) that \(animal)!"
+
+func printPoem(){
+   print(poem)
+}
+
+main(){
+   printPoem()//Andre really loves that dog!
+}
+
+i added something
+added more
+sadsadsadaasd
