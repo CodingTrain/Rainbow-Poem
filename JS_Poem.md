@@ -6,3 +6,4 @@ Then I found Shiffman (sp?)<p>
 Then I understood<p>
 
 **functions, functions and more functions.** Objects and functions and variables and arrays. Then more functions inside functions, calling functions, making objects calling functions.
+gfsfdfgsdfafdsfdsafdsfdsf
