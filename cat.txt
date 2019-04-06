@@ -1,0 +1,11 @@
+i am a cat
+i say meow
+what am i doing
+right now
+
+i have work to do
+but im here instead
+learning git from daniel shiffman
+as i cry in my bed
+
+- my first git fork
