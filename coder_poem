@@ -7,6 +7,8 @@ You will(Need no){
  { You will(Need to);
  exit();
  }
+  else
+  before.writing("watch the coding train");
 }
 
 while(1)
