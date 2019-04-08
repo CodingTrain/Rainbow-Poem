@@ -190,7 +190,7 @@ good luck ^-^.
 
 The starfish is a smart fish
 Rainbows happen following rain when the sun comes out
-Today is Earth Day.
+Today is not Earth Day.
 Groeten vanuit Utrecht, Nederland.
 
 Now I'm part of the Coding Train! Greetings from Mexico!! 🇲🇽
@@ -361,7 +361,7 @@ Party Hard!
 
 HI INSTEAD  Swimshow
 This is cool
-i love this tutorial
+I love this tutorial
 
 Nice Tutorial, easy to understand the concept
 >>>>>> <<<<<<<
