@@ -8,7 +8,7 @@ Before you submit your pull request, please check the following and place an 'X'
 I confirm that
 - [ ] I have not violated the [Coding  Train Code of Conduct](https://github.com/CodingTrain/Code-of-Conduct)
 - [ ] No content written by others has been deleted
-- [ ] My addition is not just gibberish, which might disfigure content from other contributors
+- [ ] My addition doesn't disfigure content from other contributors
 - [ ] My addition doesn't include foul or not kids-friendly language
 - [X] I have learned something new about GIT and GitHub today!
 
