@@ -1,6 +1,6 @@
 ﻿# Rainbow-Poem
 This is a training repo for my rainbow poem.
-You'll definitely gonna love it!!
+You'll definitely love it!!
 
 and also you will learn while loving it !!(;
 
