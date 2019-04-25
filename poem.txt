@@ -817,3 +817,8 @@ Thanks for the tutorial on Github
 Dit is mijn bijdrage aan dit mooie gedicht.
 laat het een mooie zijn.
 groetjes
+
+
+"""
+Watching this tutorial and learning alot
+Recycle!
