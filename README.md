@@ -33,7 +33,7 @@ I love it so much I am editing a copy as a Pull Request
 
 ¡Hola! Esta es una base de datos con poemas acerca de arco iris! 🌈
 
-Heeeejka, to podobno poeamt o tęczy i jednorożcu XD
+Heeeejka, to podobno jest poemat o tęczy i jednorożcu XD
 
 Dieses Gedicht ist das Beste!
 
