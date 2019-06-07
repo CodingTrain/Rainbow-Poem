@@ -12,6 +12,7 @@ To get rain you need clouds.
 
 מה שתרצה, יהיה
 אם יש לך מקלדת
+Also testing commit keyword changes lol.
 (TomFogle)
 
 This is going to be really crazy as it is my first pull request . I don't know what I am writing---Haha!!!!!!
