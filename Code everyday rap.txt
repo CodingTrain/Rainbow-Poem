@@ -1,0 +1,8 @@
+Code iz hard, Code iz fun. 
+Code all day till day iz done. 
+Build an app, use sum Hooks. 
+Don’t know how, hit da books. 
+Make sum calls to API. 
+Post request now don’t be shy. 
+Axios & Redux-Thunk. 
+Get up and code, don’t be a punk. 
