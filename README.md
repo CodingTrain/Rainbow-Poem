@@ -7,6 +7,7 @@ and also you will learn while loving it !!(;
 
 यह मेरे भययोग्य इंद्रधनुष कविता के लिए एक रेपो है! आप निश्चित रूप से यह प्यार करने के लिए जा रहे हैं!
 
+
 這是我的真棒彩虹詩的回購!你肯定會喜歡的!
 
 Это репо для моей удивительной радуги поэзии! Вы определенно будете любить его!
@@ -22,6 +23,9 @@ Dit is een repo voor mijn ontzagwekkende regenboog poëzie! U gaat absoluut van 
 Questo è un repo per la mia poesia arcobaleno impressionante! Si sta sicuramente andando ad amarla!
 
 이것은 내 멋진 무지개 시의 repo! 당신은 확실히 그것을 사랑 하는 거 야!
+
+ఇది నా ఇంద్రధనస్సు కవితకు శిక్షణా రెపో. మీరు ఖచ్చితంగా ఇష్టపడతారు !!
+ప్రేమించేటప్పుడు కూడా మీరు నేర్చుకుంటారు
 
 ¡Hola! Esto es un poema del arco iris.
 
