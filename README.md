@@ -35,6 +35,9 @@ I love it so much I am editing a copy as a Pull Request
 
 Dieses Gedicht ist das Beste!
 
+To jest moje repozytorium do trenowania dla mojego tęczowego wiersza.
+Na pewno ci się spodoba!!, a przy okazji się czegoś nauczysz !! :)
+
 add a line to the README.md
 
 yo my boy.
