@@ -1,4 +1,5 @@
 ﻿# Rainbow-Poem
+ 
 This is a training repo for my rainbow poem.
 You'll definitely love it!!
 
@@ -35,8 +36,3 @@ I love it so much I am editing a copy as a Pull Request
 
 Dieses Gedicht ist das Beste!
 
-add a line to the README.md
-
-yo my boy.
-
-its great to be a part of it
