@@ -1,10 +1,10 @@
 ﻿# Rainbow-Poem
  
 This is a training repo for my rainbow poem.
+
 You'll definitely love it!!
 
 and also you will learn while loving it !!(;
-
 
 यह मेरे भययोग्य इंद्रधनुष कविता के लिए एक रेपो है! आप निश्चित रूप से यह प्यार करने के लिए जा रहे हैं!
 
@@ -36,3 +36,4 @@ I love it so much I am editing a copy as a Pull Request
 
 Dieses Gedicht ist das Beste!
 
+हि एक सराव कविता रेपो आहे. तुम्हाला हे खरच आवडेल.
