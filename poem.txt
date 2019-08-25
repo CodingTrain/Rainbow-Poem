@@ -817,3 +817,14 @@ Thanks for the tutorial on Github
 Dit is mijn bijdrage aan dit mooie gedicht.
 laat het een mooie zijn.
 groetjes
+###############################################################
+This is an edit to try the pull request and fork feature.
+Thanks for this awesome tutorial!
+Fan of yours.
+Greetings.
+
+Rainbows, the refraction of the sky.
+
+Added on August, 25th.
+
+###############################################################
