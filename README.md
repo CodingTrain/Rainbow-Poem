@@ -4,6 +4,8 @@ You'll definitely love it!!
 
 and also you will learn while loving it !!(;
 
+Iyi ndi phunzilo ya kompyuta yokhuza utawaleza.
+Ndithu muyikonda :)!
 
 यह मेरे भययोग्य इंद्रधनुष कविता के लिए एक रेपो है! आप निश्चित रूप से यह प्यार करने के लिए जा रहे हैं!
 
