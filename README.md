@@ -23,6 +23,8 @@ Questo è un repo per la mia poesia arcobaleno impressionante! Si sta sicurament
 
 이것은 내 멋진 무지개 시의 repo! 당신은 확실히 그것을 사랑 하는 거 야!
 
+Ես շատ եմ սիրում այն, որ ես պատճենում եմ որպես քաշեք հայց
+
 ¡Hola! Esto es un poema del arco iris.
 
 Oi! Esse é um repositório para poemas sobre arco iris :D
