@@ -1,8 +1,6 @@
 ﻿# Rainbow-Poem
 This is a training repo for my rainbow poem.
-You'll definitely love it!!
-
-and also you will learn while loving it !!(;
+You'll definitely love it and also you will learn while loving and enjoying it !!(;
 
 
 यह मेरे भययोग्य इंद्रधनुष कविता के लिए एक रेपो है! आप निश्चित रूप से यह प्यार करने के लिए जा रहे हैं!
