@@ -48,6 +48,8 @@ python green
 github fork grey
 github merge purple
 
+flutter deepPurpleAccent
+
 (initial) commit by jandrocamus.
 edited by SphaeriCactus
 
