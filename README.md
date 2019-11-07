@@ -35,6 +35,8 @@ I love it so much I am editing a copy as a Pull Request
 
 Dieses Gedicht ist das Beste!
 
+En rad svenska!
+
 add a line to the README.md
 
 yo my boy.
