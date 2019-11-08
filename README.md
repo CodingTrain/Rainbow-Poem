@@ -25,6 +25,10 @@ Questo è un repo per la mia poesia arcobaleno impressionante! Si sta sicurament
 
 ¡Hola! Esto es un poema del arco iris.
 
+I love it so much I am editing a copy as a Pull Request 
+
+Git is Awesome! 
+
 Oi! Esse é um repositório para poemas sobre arco iris :D
 
 I love it so much I am editing a copy as a Pull Request
