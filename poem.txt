@@ -812,8 +812,12 @@ Great Tutes!
 Nice video! Happy Earth Day!
 Thanks for the tutorial on Github
 
-
-###############################################################
 Dit is mijn bijdrage aan dit mooie gedicht.
 laat het een mooie zijn.
 groetjes
+
+------
+This is a change,
+Please pull it, lets celebrate 
+This change will change the world
+And hopefully, this change will change the way we change the change
