@@ -1,8 +1,39 @@
+Poem by tutorial watchers
 
+Ceiling to the Stars
+Up in the sky, where the stars shine bright,
+That’s where I will be;
+Enjoying the thrills of outer space,
+And all there is to see.
+
+To see the rainbow you need rain.
+To get rain you need clouds.
+(CuriousBlue)
+
+
+This is going to be really crazy as it is my first pull request . I don't know what I am writing---Haha!!!!!!
 Chi desidera vedere l’arcobaleno, deve imparare ad amare la pioggia.
-(Paulo Coelho) 
+(Paulo Coelho)
 
-all kinds of colors:
+Więc widziałem za oknem całą jaskrawość,
+ale ciągle nie mogłem określić tego uczucia,
+jakie odczuwałem, że widzę to wszystko:
+całą jaskrawość.
+Nie smutek, nie beznadzieja, nie strach,
+nie przerażenie, nie obojętność i nie radość,
+nie nadzieja, nie spokój i nie zachwyt,
+nie uniesienie, ale co?
+Co rozlewało się po mnie, jakie uczucie,
+że dożyłem tej chwili, żeby dojść do tego
+miejsca, żeby zobaczyć całą jaskrawość? :)
+
+EN:
+Who wants to see the rainbow, must learn to love the rain.
+(Paulo Coelho)
+
+____________________________
+
+All kinds of colors:
 pull request blue
 github black
 binary red
@@ -10,38 +41,114 @@ binary red
 html brown
 css orange
 javascript yellow
+p5 pink
+processing navy
 
 python green
-github fork grey 
+github fork grey
 github merge purple
 
-commit by jandrocamus.
+(initial) commit by jandrocamus.
+edited by SphaeriCactus
 
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- :)
 
 Happy 4th of July!!
+My first fork - 12/8/2017
+Like your videos, the rainbow is fleeting but will always be remembered.
+
+Bir Gorkhali
+Some men aren't looking for anything logical, like money. They can't be bought, bullied, reasoned or negotiated with. Some men just want to watch the world burn.
+It is snowy today,
+hope I see a rainbow someday.
+
+thanks buddy :P for the tutorial!-----
 i think rainbow is very beautiful, and more importantly, your video is very good.
+
+Arigatou Gozimashita!
 
 The Rainbow and the Unicorn and the Pony
 New line from Nottingham
 Greetings from South Africa. I enjoy watching your tutorials, God Bless.
 
+but today is Monday.
+BUT TODAY IS MONDAY
+
 国外的小伙伴们，你们吼呀！
 
 Hello World!
-Earth day 
-Hi Recycle 
-What a great tutorial, many thanks from edinburghrules :) 
+Tashi Delek
+
+Hello World!
+Earth day
+Hi Recycle
+What a great tutorial, many thanks from edinburghrules :)
+Purple sky
+Pinkish flowers
+Oranges are tasty
+calm Blue ocean
+Green trees' all over
+Unicorn saves serious black
+Yellow yellow dirty fellow
+Red is hot
+These are the colors of the rainbow
+And the unicorn.
+And here we're done.
+Thank U.
+
+Hello World!
+Earth day
+Hi Recycle
+What a great tutorial, many thanks from edinburghrules :)
+
+
+Not just art, but ascii art!
+Full of rainbows for everyone!
+
+                 .##@@&&&@@##.
+              ,##@&::%&&%%::&@##.
+             #@&:%%000000000%%:&@#
+           #@&:%00'         '00%:&@#
+          #@&:%0'             '0%:&@#
+         #@&:%0                 0%:&@#
+        #@&:%0                   0%:&@#
+        #@&:%0                   0%:&@#
+        "" ' "                   " ' ""
+      _oOoOoOo_                   .-.-.
+     (oOoOoOoOo)                 (  :  )
+      )`"""""`(                .-.`. .'.-.
+     /         \              (_  '.Y.'  _)
+    | #         |             (   .'|'.   )
+    \           /              '-'  |  '-'
+     `=========`
+
+
+What a great tutorial, many thanks from edinburghrules :)
+Hello World! :)
+
+Playing around
+
+What a great tutorial, many thanks from edinburghrules :)
+
+Rankhole was here :)
+Thanks for all of your help, Dan <3
+
+What a great tutorial, many thanks from edinburghrules :)
 newly here
+Hello there!
+Recycle!
+
+Thank you for such a great Tutorial
+
 abe faltu
 My time for the learn...........////............
-My fist time not work correctly about pull request 
+My fist time not work correctly about pull request
 I love 4th of July!
 hi this is kumar arduino
 Hello from Melbourne, AU!
 Haha this is a great tutorial so far! - maisamwasti
 
-This is just a sentence in Japanese. 
+This is just a sentence in Japanese.
 こんにちは。２０２０年東京オリンピックぜひ来てください。
 
 Roy G Biv
@@ -49,11 +156,27 @@ The colors of the rainbow
 
 白日依山尽，长江入海流
 江虹路立交今天开通 20180701
+What a great tutorial, many thanks from edinburghrules :)
+newly here!
 
 This is a fix for Issue #804
-June 14 2018 edit to the poem by JI 
+June 14 2018 edit to the poem by JI
 
 Fix issue
+
+
+Tashi Delek to all
+
+
+Zagrlilo sunce zadnje kapi kiše.
+Umjetnik riše
+raznobojne pruge.
+I u sedam boja preko pola neba
+zablistaše dvije duge
+jedna ispod druge.
+
+Hello from Egypt!
+recycle!
 
 にじ
 あか
@@ -62,21 +185,34 @@ Fix issue
 きれいだな
 hello
 
-Cześć !
-#744
+Cześć ! Czesc! :)#744
+Español también
+
 Learning github functionalities
-Github is great and so are your videos! 
+Github is great and so are your videos!
 Let's go to candy mountain Charlie, CANDY MOUNTAIN!
 The Rainbow and the Unicorn and the Pony and don't forget the Singing Starfish!
+
 hello!!!!!!!
 good luck
+hahahahahahhahaa
+wkwkwkkwkwk
+good luck ^-^.
+
 The starfish is a smart fish
 Rainbows happen following rain when the sun comes out
-Today is Earth Day.
+Today is not Earth Day.
+Groeten vanuit Utrecht, Nederland.
 
 Now I'm part of the Coding Train! Greetings from Mexico!! 🇲🇽
 
+Today I saw your videos and they were amazing!
+Hope I learn this GIT and GITHUB Poem soon :)
+Cheers!
+
 Hello from Bozeman, Montana!
+This is me thinking deeply on things i never thought of:
+What if Rhinos are actually fat unicorns? :thinking:
 
 Red
 (The blood of angry men!)
@@ -85,19 +221,26 @@ Black
 
 Hello from Paris, France, thank you for making such great content on YouTube
 
+Hi, I'm from Morocco!
+
 A day to smile and not to pout!
 "I love Earth Day.", says Peter Pony.
 
+Nice video! Very informative and funny! So nice to learn and laugh at the same time :) Happy Eeath Day!
 "Today is 28th December 2016...!!!"
-Today is sometimes Thursday. 
+"Today is 7 March 2018!"
+Today is sometimes Thursday.
 I enjoy macaroni
 Today it is raining
 Yesterday was sunny skies.
+here in Germany is very sunny
 And tomorrow it will rain again.
+Sailing in a sea of rainbows.
 "Well I love the sea," sang the stupendous starfish.
 Earth Day is my favorite color.
+
 I am thirsty.
-You are not yourself when you are thirsty, my friend. 
+You are not yourself when you are thirsty, my friend.
 Purple rain
 tis not pink
 tis not orange either
@@ -113,6 +256,7 @@ bathing in the purple rain!
 is not sullen
 is not pain
 this is dark, no?
+darkness is relative
 is not pink
 is not orange either
 is not brown like a beaver
@@ -128,27 +272,35 @@ Eel
 Maroon five four three two one!
 Purple is deep!
 Lip balm
-Brown 
+Brown
+Gold
 Indigo girls are singing
+
 Earth day is a day
 And I should say:
 Clouds
 Unicorn
 And a large gorilla
 ....never forget the this. this. this., this. this. this. .......
+I love rainbows!
+Rainbows are the best things on the Earth!
+I like the Earth day too!
+And love rainbows to grew!
 I said to myself.
 Keep Calm and Carry On!
 Yellow, the color of the best-known plasma sphere
 Red, the color of passion
-Green, the color of nature 
+Green, the color of nature
 Is the color of the year.
 Red is hot
+Indigo
 Hear! Hear!
 East or West Dannie is the best!
 These are the colors of the rainbow.
-
 And the rainbow coloured unicorn.
 Pony, Pony, Pony...
+All I can say is that my life is pretty plain
+I like watchin' the puddles gather rainbow
 unicorns have have horns and that ryhmes (no pun intended)
 ponys are small baby horses
 Peter Pony drinks a cup of oolong tea.
@@ -169,6 +321,7 @@ After rain comes sun and in between the rainbow gets it done.
 Let's dance!
 The crumbling cookie!
 Fun is fun!
+Poets around the world
 Roses are red, violets are blue.
 Purple Reign
 I like you too
@@ -193,7 +346,7 @@ Pony of poets
 Horse of harpists
 Hamburgers dancing at the meatball!!
 Brown lawns are the "New" green lawns!
-Too close to home
+Too close to home...adddin
 To be or not to be a unicorn!
 Ai Lad, Unicorns are marvelous!!
 Running through the clouds
@@ -206,34 +359,42 @@ All shadows will go away somewhen, somewhen.
 They'll go away.
 
 EVEN THO YOUR COLORS ARE DESATURIZED YOU ARE STILL A RAINBOW
+pink is a great color
 
 vidimo se i sutra
-hvala iz srbije!
+hvala iz srbije
+<3
+
+Golden brown, texture like sun
 
 pozdrav iz novog sada
 
-Party Hard! 
+Party Hard!
 
 HI INSTEAD  Swimshow
 This is cool
-I love this tutorial 
+I love this tutorial
 
 Nice Tutorial, easy to understand the concept
 >>>>>> <<<<<<<
 nice vids adding my own spin here
 >>>>>> <<<<<<
-I love you videos and sense of humor. Please change my repo called github tutorial. You can add comments and make changes if you want. 
+I love you videos and sense of humor. Please change my repo called github tutorial. You can add comments and make changes if you want.
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ magical poem dust!
 
 Coding Rainbow
 
 Halo
 
+Changes to the original Poem
+
+Daffodils!
+
 Every time someone experiences true bliss, a rainbow gets created
 
 I'm adding a line :V
 holo
-superline 
+superline
 miniline ;-;
 Cześć :)
 LIne 117 added
@@ -241,11 +402,11 @@ No siema :)
 El chaparrón de agua de esta mañana resultó en un bello arco iris.
 
 ************************
-شكرا لك يابطل >>>> thank you so much :) that is my first comment
+شكرا لك يابطل >>>> thank you so much :) that is my first commit.
 ************************
-I'm watching your video in New Zealand. Thank you so much.
+I'm watching your video in New Zealand. Thank you so much ^-^.
 
-loving this !! thank you so much.
+loving this !! thank you so much ^-^.
 
 >Whose sky this is I think I know
 >This rainbow is pretty cool though
@@ -257,7 +418,12 @@ learning how to pull
 jesus im not good at rhymes
 -Juan
 
-
+Hey! Using this for my first pull request.
+Please sir! I do not jest,
+this is a problem that must be addressed.
+Perhaps your feelings are supressed....
+or this poem is just giving you a
+cardiac arrest.
 
 I like rainbows in the sky
 They force me to ask the question "Why,
@@ -273,7 +439,7 @@ Fix #647
 
 MAMAAAAAAAAA OOOOOOOOOHOOOOOOHOOHHH didn't mean to make you cry...
 
-Hyvä tutoriaali, fine tutorial! 
+Hyvä tutoriaali, fine tutorial!
 
 Awesome Tutorial
 Rainbows lead to gold
@@ -285,16 +451,16 @@ I do not need to be genius to be human;
 But I need your smile to be happy.
                        --Charles Chaplin
 
-“Study while others are sleeping; 
-work while others are loafing; 
-prepare while others are playing; 
+“Study while others are sleeping;
+work while others are loafing;
+prepare while others are playing;
 and dream while others are wishing.”
 
  William Arthur Ward
- 
- 
- 
-********************************************** 
+
+
+
+**********************************************
  To Night
 Swiftly walk o’er the western wave,
 Spirit of Night!
@@ -344,10 +510,11 @@ I love watching The Coding Train,
 And Fun Fun Function too.
 
 - Percy Bysshe Shelley
+-- First Pull Request
 
-Just watched the youtube video and am adding this for practice. 
+Just watched the youtube video and am adding this for practice.
 I've edited some stuff here.
- 
+
 ******************************************************************
 
 Unicorn Jokes: Let's make some Jokes about this Poem!
@@ -355,7 +522,15 @@ Unicorn Jokes: Let's make some Jokes about this Poem!
 Q: How do you say unicorn in Spanish?
 A: Unamaize
 
- ****************************************************************** 
+
+We're off, we're off
+To seek a new beginning
+Oh look- there's a rainbow!
+What fun this will be!
+
+- Hi guys this is Ashique from Bangladesh, Dhaka...
+
+******************************************************************
  I like Ponies -- just some random guy
 ******************************************************************
 Love from Austrlia!
@@ -394,7 +569,10 @@ You and I.
 ************************************************************************
 
  Verse from poet Alama Iqbal
- 
+
+******************************************************************
+Sunny day in Chicago and not a Unicorn in sight
+But raining in Manchester and Unicorns running down Oldham Street
 ******************************************************************
 
 Early in the evening a song bird
@@ -446,10 +624,197 @@ Akoy pinoy na mayroong sariling wika
 
 Glad i found your video ! Cool Github tutorial :)
 
-its really a nice tutorial :) 
+its really a nice tutorial :)
 ******************************************************************
 
-EOF
+Pink fluffy unicorns dancing on rainbows!
+
+the coding train is awesome youtube channel
+
+The cake is a lie ;)
+
+I see you but you           Not just receptor.
+cannot see me. If I am      I am colourful while not.
+not just receptor.          I see you but you
+I am colourful while not.   The literal behind "see"
+The literal behind "see".   Cannot see me. If I am.
+I Cannot see you            I am colourful
+see me, if I am but you     while not. The literal be-
+not just receptor.          hind see, I cannot
+
+
+ ******************************************************************
+The Rainbow and the Unicorn and the Pony
+Today is EARTH DAY
+
+Purple people eaters
+Pink tutu
+Purple
+Orange ya glad its not rotton
+Purple
+Blue Velvet
+Purple
+Green machine
+Indigo
+Recycle!
+Purple
+Unicorn and puppy dogs
+Purple
+Yellow submarine
+More Purple
+Red rover red rover
+These are the colours of the rainbow.
+...and more purple
+And the unicorn.
+Pony
+
+ I am unique
+
+ I come with no wrapping or pretty pink bows.
+I am who I am, from my head to my toes.
+I tend to get loud when speaking my mind.
+Even a little crazy some of the time.
+
+By: - lost powet
+
+Life Changing, seriously.
+On to bigger and better things!
+Thanks
+unicorn unicorn unicorn unicorn!
+that is not the color of the rainbow
+
+"I Am Also A Unicorn" :)
+
+Unicorns issue fixed !!!
+
+This is not the end of the poem... in fact, it's only the beginning!
+
+ Roses are red
+ The sky is blue
+ Shiffman is the best coding teacher
+ And that is really true.
+
+ Why thee asketh, I shall answer
+ Cuz he's dope and isn't a stuck up douche.
+
+ (You should read the douche like the French, pronounced "doo-shay")
+ (Yes, 'cuz he's fancy like that.)
+ ------------------------------------------------------------------------
+
+roygbiv
+up in the sky
+see how you live
+only touched by the eyes
+
+trying to add something in Estonian - proovin lisada midagi eesti keeles
+
+ Hola! You are so awesome!
+
+ Hello Rainbow Watchers!
+Bugs on master branch are coders sahme
+
+ Uni-corn-bread
+ Is it a unicorn?
+ Or is it a cornbread?
+ It is neither,
+ It just is an internet.
+
+ %%%%%%%%%%%%%%%%%%%%
+ Thanks so much for making your videos. Here's my first pull request :)
+ TMcA
+ ********************
+
+Save trees
+Stop using Tissues!
+
+Mary had a rainbow lamb
+rainbow lamb, rainbow lamb
+Mary had a rainbow lamb
+Its fleece was Roy G Biv
+And everywhere that Mary went
+Mary went, Mary went
+Everywhere that Mary went
+The lamb was sure to go
+
+He followed her to school one day
+School one day, school one day
+He followed her to school one day
+Which was against the rule
+It made the children laugh and play
+Laugh and play, laugh and play
+It made the children laugh and play
+To see a lamb at school
+
+And so the teacher turned him out
+Turned him out, turned him out
+And so the teacher turned him out
+But still he lingered near
+And waited patiently
+Patiently, patiently
+And wai-aited patiently
+Til Mary did appear
+
+Mary had a rainbow lamb
+rainbow lamb, rainbow lamb
+Mary had a rainbow lamb
+Its fleece was Roy G Biv
+And everywhere that Mary went
+Mary went, Mary went
+Everywhere that Mary went
+The lamb was sure to go
+******************************************************************
+:)
+
+Wake up, work hard, eat good
+Feelin low, strugglin, straight hood
+called in, loungin, what's new
+thinkin, always, push through
+steer clear, take that long route
+clock slave, minutes late, no doubt
+just please dont asme how i'm doing
+cause i'll lie aint no foolin
+expectation tellin me to be happy
+cash flow is all you need, don't you see
+pow pow
+
+-Son Truong
+
+***************************************************************
+Double Rainbows are double the fun!
+
+Auguest 1, 2018
+Leranig git from watching your tutorial. Really loving it.
+Thanks man for making this awesome video!!
+Jahurul
+******************************************************************
+
+Recycle!
+Watching YT vid and practicing here. Thank you for posting your helpful tutorials.
+
+testing
+
+Besides, I've added some fruits I love.
+
+Banana
+Watermelon
+Honeydew
+Grape
+Great from MainaTown!
+******************************************************************
+Simple Edit
+
+Great Tutes!
+
+-O
+
+******************************************************************
+1337
+Nice video! Happy Earth Day!
+Thanks for the tutorial on Github
+
+Dit is mijn bijdrage aan dit mooie gedicht.
+laat het een mooie zijn.
+groetjes
 
 ------
 This is a change,
