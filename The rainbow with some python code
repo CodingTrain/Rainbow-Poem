@@ -1,0 +1,9 @@
+from text-to-speech import text-to-speech
+def sing_the_rainbow:
+  text-to-speech("red")
+  text-to-speech("orange")
+  text-to-speech("yellow")
+  text-to-speech("green")
+  text-to-speech("blue")
+  text-to-speech("purple")
+  text-to-speech("pink")
