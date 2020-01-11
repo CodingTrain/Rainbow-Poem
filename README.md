@@ -21,7 +21,7 @@ Dit is een repo voor mijn ontzagwekkende regenboog poëzie! U gaat absoluut van 
 
 Questo è un repo per la mia poesia arcobaleno impressionante! Si sta sicuramente andando ad amarla!
 
-이것은 내 멋진 무지개 시의 repo! 당신은 확실히 그것을 사랑 하는 거 야!
+이것은 제 멋진 무지개 시를 위한 레포지토리 입니다! 분명 마음에 드실 거에요!
 
 ¡Hola! Esto es un poema del arco iris.
 
