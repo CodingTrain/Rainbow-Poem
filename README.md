@@ -17,7 +17,7 @@ Dies ist ein Repo für meine geniale Regenbogen Poesie! Du wirst es auf jeden Fa
 
 Dit is een repo voor mijn ontzagwekkende regenboog poëzie! U gaat absoluut van het houden!
 
-これは私の素晴らしい虹の詩のためのレポです!あなたは間違いなくそれを愛するつもりです!
+ここは僕が「虹の詩」のために作った練習用リポジトリさ。きっと気に入ってくれると思うよ！
 
 Questo è un repo per la mia poesia arcobaleno impressionante! Si sta sicuramente andando ad amarla!
 
