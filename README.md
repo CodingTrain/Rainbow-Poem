@@ -15,7 +15,7 @@ C'est un repo pour mon incroyable poésie arc-en-ciel! Tu vas vraiment l'adorer!
 
 Dies ist ein Repo für meine geniale Regenbogen Poesie! Du wirst es auf jeden Fall lieben!
 
-Dit is een repo voor mijn ontzagwekkende regenboog poëzie! U gaat absoluut van het houden!
+Dit is een repo voor mijn ontzagwekkende regenboog poëzie! U gaat er absoluut van houden!
 
 これは私の素晴らしい虹の詩のためのレポです!あなたは間違いなくそれを愛するつもりです!
 
