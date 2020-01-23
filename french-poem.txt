@@ -3,11 +3,11 @@ Violet
 Rose
 Orange
 Bleu
-vert
+Vert
 Indigo
 Licorne
 Jaune
-rouge
+Rouge
 Ce sont les couleurs de l'arc-en-ciel.
 Et la licorne.
 Poney.
