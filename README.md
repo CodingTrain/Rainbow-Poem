@@ -46,3 +46,13 @@ yo my boy.
 its great to be a part of it
 
 MODIFYING FILES!
+
+
+Roses are red 
+voilets came from blue 
+where have u been below the yellow shades 
+when green trun to try 
+jumping from the slides of blue sky 
+to pick the oranges high
+bought a pack of cheese to make a new indigo fry
+say cheese for a new pic try 
