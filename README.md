@@ -39,6 +39,8 @@ I love it so much I am editing a copy as a Pull Request
 
 Dieses Gedicht ist das Beste!
 
+Bu repo mening ajoyib she'riyat kamalagi uchun dir! Siz uni albatta sevasiz!
+
 add a line to the README.md
 
 yo my boy.
