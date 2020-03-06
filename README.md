@@ -6,11 +6,15 @@ and also you will learn while loving it !!(;
 
 I love it so much I am editing a copy as a Pull Request<strong> </p>
 
+Segundo pull request...
+
 यह मेरे भययोग्य इंद्रधनुष कविता के लिए एक रेपो है! आप निश्चित रूप से यह प्यार करने के लिए जा रहे हैं!
 
 這是我的真棒彩虹詩的回購!你肯定會喜歡的!
 
 Это репо для моей удивительной радуги поэзии! Вы определенно будете любить его!
+
+Aprendiendo de GitHub con mi amigo el RainbowCoder
 
 C'est un repo pour mon incroyable poésie arc-en-ciel! Tu vas vraiment l'adorer!
 
