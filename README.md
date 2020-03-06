@@ -12,6 +12,8 @@ I love it so much I am editing a copy as a Pull Request<strong> </p>
 
 Это репо для моей удивительной радуги поэзии! Вы определенно будете любить его!
 
+Aprendiendo de GitHub con mi amigo el RainbowCoder
+
 C'est un repo pour mon incroyable poésie arc-en-ciel! Tu vas vraiment l'adorer!
 
 Dies ist ein Repo für meine geniale Regenbogen Poesie! Du wirst es auf jeden Fall lieben!
