@@ -3,3 +3,8 @@ Following is a 12 Bar Blues Pattern in the Scale of C
 | F7 -- -- -- | F7 -- -- -- | C7 -- -- -- |
 | F7 -- -- -- | F7 -- -- -- | C7 -- -- -- |
 | G7 -- -- -- | F7 -- -- -- | C7 -- -- -- |
+
+Roses are Red,
+Violets are Blue,
+Colors of the Rainbow
+Will always be TRUE.
