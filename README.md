@@ -46,6 +46,8 @@ yo my boy.
 
 its great to be a part of it
 
+Það er gaman að skrifa ljóð á íslensku
+
 MODIFYING FILES!
 Your are awesome bro.
 
