@@ -6,6 +6,7 @@ Bleu
 vert
 Indigo
 Licorne
+Bordeaux
 Jaune
 rouge
 Ce sont les couleurs de l'arc-en-ciel.
