@@ -46,6 +46,8 @@ yo my boy.
 
 its great to be a part of it
 
+साह्रै राम्रो पो लाग्यो त सोल्टिको कक्षा ! 
+
 MODIFYING FILES!
 Your are awesome bro.
 
