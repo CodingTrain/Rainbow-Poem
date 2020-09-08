@@ -49,5 +49,14 @@ its great to be a part of it
 MODIFYING FILES!
 Your are awesome bro.
 
+ارغوان شاخه همخون جدا مانده من
+
+آسمان تو چه رنگ است امروز
+
+آفتابی ست هوا
+
+یا گرفته است هنوز
+
 getting into forking, cloning & pulling
 added empty
+
