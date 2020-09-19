@@ -51,3 +51,6 @@ Your are awesome bro.
 
 getting into forking, cloning & pulling
 added empty
+
+maybe i'm doing this right
+lets see :) 
