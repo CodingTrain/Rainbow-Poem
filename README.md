@@ -48,5 +48,5 @@ its great to be a part of it
 
 Thanks Coding Train for this one.
 
-<h1> Its a great opportunity to be able to work on something fruitful as a beginner to github.<h1>
+<h3> Its a great opportunity to be able to work on something fruitful as a beginner to github.<h3>
   
