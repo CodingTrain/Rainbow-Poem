@@ -1,0 +1,8 @@
+//Unhandled Love 
+class love
+{
+  void main(args[])
+  {
+    thorw love();
+  }
+}
