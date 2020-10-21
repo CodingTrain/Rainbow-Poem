@@ -51,3 +51,5 @@ Your are awesome bro.
 
 getting into forking, cloning & pulling
 added empty
+
+mi piace un casino e sto per modificare una copia come una Pull Request
