@@ -51,3 +51,5 @@ Your are awesome bro.
 
 getting into forking, cloning & pulling
 added empty
+
+I really appreciate your efforts to make learning this easy and simplified :)
