@@ -1,1 +1,7 @@
 ADD A  NEW  FILE 
+
+
+Rose is red
+Violet is blue
+I love is Repo
+And so are you
