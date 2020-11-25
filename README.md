@@ -49,5 +49,7 @@ its great to be a part of it
 MODIFYING FILES!
 Your are awesome bro.
 
+Colorless green ideas sleep furiously.
+
 getting into forking, cloning & pulling
 added empty
