@@ -1,0 +1,4 @@
+Roses are red
+Violets are blue
+Python is amazing
+And J.S. Sucks to
