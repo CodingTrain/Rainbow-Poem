@@ -51,3 +51,5 @@ Your are awesome bro.
 
 getting into forking, cloning & pulling
 added empty
+
+[This is a link to The Coding Train offical discord](https://discord.gg/hPuGy2g)
