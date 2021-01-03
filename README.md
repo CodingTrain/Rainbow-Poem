@@ -1,4 +1,15 @@
 ﻿# Rainbow-Poem
+ 
+ Dear Rainbow,
+ beautiful and glittery,
+ comes out after the rain,
+ rain bow you are called,
+ a name befitting of your wonder,
+ many stories behind your origin,
+ whatever the true story might be,
+ i'll always marvel at your beauty.
+ 
+ 
 <p><strong>This is a training repo for my rainbow poem.
 You'll definitely love it!!
 
