@@ -1,6 +1,6 @@
 def print_hi(name):
     """
-    return a string of greetings!
+    returns a string of greetings!
     :param name: String
     :return: String
     """
