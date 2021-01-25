@@ -1,5 +1,10 @@
 Poem by tutorial watchers
 
+This first line
+is after I cut my hairline,
+I am a random learner
+editing the poem's kernel.
+
 Ceiling to the Stars
 Up in the sky, where the stars shine bright,
 That’s where I will be;
