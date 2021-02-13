@@ -6,12 +6,12 @@ Naranja
 Azul
 Verde
 Indigo
-Recycle!
+Reciclado
 Unicornio
 Amarillo
 Rojo
-Esos son los colores del arcoiris.
+Estos son los colores del arcoiris.
 Y el unicornio.
 Pony
 
-Ejemplo en espanhiol
+Ejemplo en español
