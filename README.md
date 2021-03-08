@@ -46,6 +46,8 @@ yo my boy.
 
 its great to be a part of it
 
+Thanks for this tutorial.
+
 MODIFYING FILES!
 Your are awesome bro.
 
