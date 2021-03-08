@@ -6,7 +6,8 @@ and also you will learn while loving it !!(;
 
 I love it so much I am editing a copy as a Pull Request<strong> </p>
 
-यह मेरे भययोग्य इंद्रधनुष कविता के लिए एक रेपो है! आप निश्चित रूप से यह प्यार करने के लिए जा रहे हैं!
+यह मेरे भययोग्य इंद्रधनुष कविता के लिए एक रेपो है! 
+आपको यह जरूर पसंद आएगा!
 
 這是我的真棒彩虹詩的回購!你肯定會喜歡的!
 
