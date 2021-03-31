@@ -13,6 +13,7 @@ github is good
 p5js is great
 using them together makes me concentrate
 
+RAINBOW POEM TRIAL
 /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 Hallo Welt auch in Deutschland gib es einen Regenbogen ;0)
 and by knowing how to do a pull request
