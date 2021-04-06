@@ -44,6 +44,8 @@ add a line to the README.md
 
 yo my boy.
 
+Fun fact - humor allows the brain to more easily learn - thanks!
+
 its great to be a part of it
 
 MODIFYING FILES!
