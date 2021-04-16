@@ -14,7 +14,7 @@ I love it so much I am editing a copy as a Pull Request<strong> </p>
 
 C'est un repo pour mon incroyable poésie arc-en-ciel! Tu vas vraiment l'adorer!
 
-Dies ist ein Repo für meine geniale Regenbogen Poesie! Du wirst es auf jeden Fall lieben!
+Dies ist ein Repo für mein geniales Regenbogen Gedicht! Du wirst es auf jeden Fall lieben!
 
 Dit is een repo voor mijn ontzagwekkende regenboog poëzie! U gaat absoluut van het houden!
 
@@ -38,7 +38,7 @@ I love it so much I am editing a copy as a Pull Request
 
 ¡Hola! Esta es una base de datos con poemas acerca de arco iris! 🌈
 
-Dieses Gedicht ist das Beste!
+Dieses Gedicht ist definitiv das Beste!
 
 add a line to the README.md
 
