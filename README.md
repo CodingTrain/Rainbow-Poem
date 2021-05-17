@@ -59,3 +59,5 @@ Green
 Indigo
 Yellow
 Purple
+Red
+Orange
