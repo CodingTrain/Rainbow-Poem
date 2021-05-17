@@ -57,3 +57,5 @@ putting in some text here and looking for the rainbow poem :(
 Blue 
 Green
 Indigo
+Yellow
+Purple
