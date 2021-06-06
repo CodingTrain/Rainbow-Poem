@@ -9,7 +9,7 @@ This is a poem, of my appreciation for you.
 
 As I sit here, making up these rhymes,  
 In my mind I'm thinking,  
-whether this repo is still active,  
+whether this repo is still ticking,  
 in these uncertain times.
 
 Logic will say no, but my hope's still up,  
