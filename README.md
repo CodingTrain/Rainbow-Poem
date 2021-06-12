@@ -42,6 +42,8 @@ Dieses Gedicht ist das Beste!
 
 add a line to the README.md
 
+Rainbow Poem has become multi-lingual, I love it! 
+
 yo my boy.
 
 its great to be a part of it
