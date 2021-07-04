@@ -48,6 +48,8 @@ its great to be a part of it
 
 MODIFYING FILES!
 Your are awesome bro.
+ 
+That's new change.
 
 getting into forking, cloning & pulling
 added empty
