@@ -51,3 +51,14 @@ Your are awesome bro.
 
 getting into forking, cloning & pulling
 added empty
+
+
+Good to remember that the colours of the rainbow is, according to the issue #2577:
+Red
+Orange
+Yellow
+Green
+Soft blue
+Dark blue
+Purple
+Author: Rumpelstiltskin
