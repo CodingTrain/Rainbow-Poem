@@ -1,0 +1,10 @@
+/*
+* Thank you for the tutorial about git and github.
+* I just wanted to contribute myself.
+* The poem is not my creation, i just saw it online.
+* Greetings from Italy.
+*/
+
+Roses are red,
+Violets are blue,
+Omae wa mou shindeiru.
