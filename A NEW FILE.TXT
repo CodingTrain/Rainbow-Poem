@@ -1,1 +1,2 @@
 ADD A  NEW  FILE 
+New File, Edit file, Make file, Read file, Delete File.
