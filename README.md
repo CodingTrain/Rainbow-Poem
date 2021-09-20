@@ -1,6 +1,9 @@
 ﻿# Rainbow-Poem
 <p><strong>This is a training repo for my rainbow poem.
 You'll definitely love it!!
+ amar sonar bangla 
+ami tomay valobashi
+
 
 and also you will learn while loving it !!(;
 
