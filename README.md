@@ -46,8 +46,7 @@ yo my boy.
 
 its great to be a part of it
 
-MODIFYING FILES!
-Your are awesome bro.
+Thanks Coding Train for this one.
 
-getting into forking, cloning & pulling
-added empty
+<h3> Its a great opportunity to be able to work on something fruitful as a beginner to github.<h3>
+  
