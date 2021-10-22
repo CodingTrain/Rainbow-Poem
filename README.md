@@ -1,4 +1,7 @@
 ﻿# Rainbow-Poem
+ 
+ ![Image of Rainbow](https://s.abcnews.com/images/Technology/ht_winner_117282_places_dm_111222_ssh.jpg)
+ 
 <p><strong>This is a training repo for my rainbow poem.
 You'll definitely love it!!
 
