@@ -51,3 +51,5 @@ Your are awesome bro.
 
 getting into forking, cloning & pulling
 added empty
+
+[CZ] Tohle je trénikový repozitář pro mojí duhovou báseň (a pro tvorbu Pull Requestů). Určitě se Vám bude líbit!
