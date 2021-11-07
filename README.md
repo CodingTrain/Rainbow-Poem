@@ -2,6 +2,8 @@
 <p><strong>This is a training repo for my rainbow poem.
 You'll definitely love it!!
 
+I am loving this -Bose
+
 and also you will learn while loving it !!(;
 
 I love it so much I am editing a copy as a Pull Request<strong> </p>
