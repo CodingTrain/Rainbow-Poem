@@ -1,0 +1,27 @@
+name: helloworld
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run a one liner
+        run: echo Hello, WORLD!
+     
+      - name: Run a multi line script
+        run: 
+          echo Add other actions to build
+          echo test, and deploy your project
+
+      - uses: deka0106/upload-to-dropbox@v2
+        with:
+          dropbox_access_token: ${{ secrets.DROPBOX_ACCESS_TOKEN }}
+          src: ./README.md
+          dest: /git-builds/
+          multiple: true
