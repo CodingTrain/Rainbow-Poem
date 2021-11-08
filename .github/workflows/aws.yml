@@ -18,3 +18,10 @@ jobs:
         run: 
           echo Add other actions to build
           echo test, and deploy your project
+
+      - uses: deka0106/upload-to-dropbox@v2
+        with:
+          dropbox_access_token: ${{ secrets.DROPBOX_ACCESS_TOKEN }}
+          src: dist/**/*
+          dest: /dest/
+          multiple: true
