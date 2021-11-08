@@ -1,4 +1,4 @@
-name: Deploy to Amazon ECS
+name: helloworld
 
 on:
   push:
@@ -10,11 +10,11 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-      -uses: actions/checkout@v2
-      -name: Run a one liner
-       run: echo Hello, WORLD!
+      - uses: actions/checkout@v2
+      - name: Run a one liner
+        run: echo Hello, WORLD!
      
-      -name: Run a multi line script
-       run: 
-        echo Add other actions to build
-        echo test, and deploy your project
+      - name: Run a multi line script
+        run: 
+          echo Add other actions to build
+          echo test, and deploy your project
