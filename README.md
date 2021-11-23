@@ -51,8 +51,7 @@ Your are awesome bro.
 
 getting into forking, cloning & pulling
 added empty
-  
-  
+
 # Poem of Wonder and Warmth.
 Life is beautiful and amazing,
 you just need two things
