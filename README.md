@@ -51,3 +51,5 @@ Your are awesome bro.
 
 getting into forking, cloning & pulling
 added empty
+  
+Rainbow-Poem projesi ile git ve github'ı öğren! Öğrenirken eğlen, eğlenirken öğren.
