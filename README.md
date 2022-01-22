@@ -20,7 +20,8 @@ Dit is een repo voor mijn ontzagwekkende regenboog poëzie! U gaat absoluut van 
 
 これは私の素晴らしい虹の詩のためのレポです!あなたは間違いなくそれを愛するつもりです!
 
-Questo è un repo per la mia poesia arcobaleno impressionante! Si sta sicuramente andando ad amarla!
+Questo è un repo di prova per la mia poesia arcobaleno! Ti piacerà di sicuro!
+Inoltre imparerai ad amarla !! (;
 
 이것은 내 멋진 무지개 시의 repo! 당신은 확실히 그것을 사랑 하는 거 야!
 
