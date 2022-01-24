@@ -10,6 +10,7 @@ Extends final export throws.
 
 Try import double enum?  
 - False, boolean, abstract function, 
+yield arguments eval await 
 Implements typeof transient break!
 Void static, default do,  
 Switch int native new. 
