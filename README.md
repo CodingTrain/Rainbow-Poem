@@ -51,3 +51,5 @@ Your are awesome bro.
 
 getting into forking, cloning & pulling
 added empty
+  
+  #As yellow is for the sun, red is for the tose given by the man.
