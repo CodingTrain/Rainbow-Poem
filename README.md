@@ -26,6 +26,8 @@ Questo è un repo per la mia poesia arcobaleno impressionante! Si sta sicurament
 
 ¡Hola! Esto es un poema del arco iris.
 
+                                                                                                      هذا هو الريبو الخاص بي لقصيدة قوس قزح الرائعة! أنت بالتأكيد ستحب هذا!
+
 I love it so much I am editing a copy as a Pull Request 
 
 Git is Awesome! 
