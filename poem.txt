@@ -166,6 +166,8 @@ hi this is kumar arduino
 Hello from Melbourne, AU!
 Haha this is a great tutorial so far! - maisamwasti
 
+Today is Earth Day!
+
 This is just a sentence in Japanese.
 こんにちは。２０２０年東京オリンピックぜひ来てください。
 
