@@ -1,12 +1,14 @@
-You will(Need no){
- Example at=ALL;
- if (You.are(BARELY_GOOD))
+You will(Need no){ 
+Example at=ALL;
+if (You.are(GOOD))
   at.writing(Your.CODE);
   tralaloE
   else
  { You will(Need to);
  exit();
  }
+  else
+  before.writing("watch the coding train");
 }
 
 while(1)
@@ -33,3 +35,18 @@ main(){
 i added something
 added more
 sadsadsadaasd
+/*
+ * -------------------------------------
+ * This is where i need to place my code
+ * -------------------------------------
+ *                  ^_^
+ */
+
+if(code != '')
+{
+   my code will be in this place ...
+}
+else
+{
+   I don't have any code ????
+}
