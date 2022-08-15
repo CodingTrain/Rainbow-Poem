@@ -1,0 +1,85 @@
+1.1: Introduction - Git and GitHub for Poets
+
+Step one--list goals:
+this-is-a pedagogical poem.
+pay attention to my lesson
+don't do it all on your own.
+
+When I type in ALL CAPS
+you better open your mind
+cause the TERM needs DEFINITION
+so you can follow the guides.
+
+So perk your eyes. re-espresso.
+focus in. sit up straight.
+Now that I have your attention
+I can pre-educate:
+
+    I do a FORK
+    COMMIT some changes
+    then I make a PR
+    to the REPO
+    served @ GITHUB
+    running GIT
+    from afar
+
+Step two--define the terms
+so you can gain a new skill:
+to read and understand the manuals
+without getting killed.
+
+So what is GIT?
+
+Simply put, GIT is version control
+it keeps all changes
+to your files
+all without any toil.
+
+So what is GITHUB?
+
+It's a service where you get an account
+A social network for git projects.
+and it's all in the cloud.
+
+STORY TIME!
+
+I'm on GITHUB and I make a REPO
+to hold my files and organize them
+using GIT like a pro
+
+Oh, no! REPO is a word I don't know!
+Calm down, I'll define it, are you ready to go?
+
+A REPO is short for a github repository;
+a project or grouping of files--end expository.
+
+Now why would you want this history maintained?
+Cause you have too many versions
+with the same filenames:
+    underscore final dot txt (*_final.txt)
+    and done best done dot D.O.C (*donebestdone.doc)
+
+Not only for the selfish
+GIT's collaborative too
+To FORK is to copy
+someone's GIT project for you
+
+Make some changes to your copy
+the you COMMIT them to save.
+Let me explain with colors
+to brighten your day:
+
+Purple, Pink
+Orange, Red, Blue
+Green COMMIT is the button
+to save changes new.
+
+Add the color yellow
+for another COMMIT.
+the code keeps all former versions
+a linear history in git
+
+When you want to share your changes
+with the project you FORKED
+you do a PULL REQUEST
+A.K.A. a PR

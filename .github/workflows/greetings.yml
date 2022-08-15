@@ -1,0 +1,13 @@
+name: Greetings and Time Notice
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Thank you for contributing and using this repository while learning GitHub. We have fallen behind on new issues and are resolving them in the order they were submitted. It maybe a number of weeks before we get to this one. Sorry for any inconvenience this causes. Choo choo! 🚂🌈❤️'
+        pr-message: 'Thank you for contributing and using this repository while learning GitHub. We have fallen behind on new pull requests and are reviewing them in the order they were submitted. It maybe a number of weeks before we get to this one. Sorry for any inconvenience this causes. Choo choo! 🚂🌈❤️'
