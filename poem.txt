@@ -46,7 +46,7 @@ Who wants to see the rainbow, must learn to love the rain.
 
 ____________________________
 
-All kinds of colors:
+All types of colors:
 pull request blue
 github black
 binary red
