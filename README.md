@@ -4,6 +4,8 @@ You'll definitely love it!!
 
 and also you will learn while loving it !!(;
 
+ई हमर इंद्रधनुषी कविता के लेल एकटा ट्रेनिंग रेपो अछि। अहाँ के जरूर नीक लागत!
+
 I love it so much I am editing a copy as a Pull Request<strong> </p>
 
 यह मेरे भययोग्य इंद्रधनुष कविता के लिए एक रेपो है! आप निश्चित रूप से यह प्यार करने के लिए जा रहे हैं!
