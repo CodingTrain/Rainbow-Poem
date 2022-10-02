@@ -51,3 +51,11 @@ Your are awesome bro.
 
 getting into forking, cloning & pulling
 added empty
+
+नमस्ते सदा वत्सले मातृभूमे
+
+त्वया हिन्दुभूमे सुखं वर्धितोऽहम् ।
+
+महामङ्गले पुण्यभूमे त्वदर्थे
+
+पतत्वेष कायो नमस्ते नमस्ते 
