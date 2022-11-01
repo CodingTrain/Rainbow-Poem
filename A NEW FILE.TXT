@@ -1,1 +1,4 @@
-ADD A  NEW  FILE 
+Hello There!
+Just wanted to say thank you for your amazing videos.
+Keep up the good work!
+Also this is my first pull request XD
