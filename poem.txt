@@ -44,7 +44,23 @@ EN:
 Who wants to see the rainbow, must learn to love the rain.
 (Paulo Coelho)
 
-____________________________
+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+
+
+Happy New Year!!
+My first fork - 01.06.2020
+
+This is a Christmas wish in Eritrean language - Tigrigna
+ርሑስ በዓል ልደት 
+ርሑስ በዓል ልደት ንዓካ ንዓኺ 
+ምስ ምሉእ ስድራቤት ፈተውቲ
+
+This is a Christmas wish in Ethiopian language - Amharic
+መልካም ገና
+መልካም ገና
+እንኳን ለገና በ'አል በሰላም አደረ'ሳችሁ
+
+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+_+
+
 
 All kinds of colors:
 pull request blue
