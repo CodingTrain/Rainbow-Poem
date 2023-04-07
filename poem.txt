@@ -832,6 +832,7 @@ Banana
 Watermelon
 Honeydew
 Grape
+Pineapple
 Great from MainaTown!
 ******************************************************************
 Simple Edit
