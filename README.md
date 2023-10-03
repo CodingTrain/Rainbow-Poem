@@ -51,3 +51,5 @@ Your are awesome bro.
 
 getting into forking, cloning & pulling
 added empty
+
+I'm terrible at poems. So bad, that once I got into a poem contest in school. We were 36 kids. I ended up in place 36th. Worst poem in the whole school. You're welcome.
