@@ -51,3 +51,5 @@ Your are awesome bro.
 
 getting into forking, cloning & pulling
 added empty
+
+I was going to say this repo is terrible, but I realize this repo is probably actually good compared to other beginner repos out there. Peace
