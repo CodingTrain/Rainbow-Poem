@@ -1,0 +1,13 @@
+# Si me quieres, quiéreme entera, de Dulce María Loynaz
+
+Si me quieres, quiéreme entera,
+no por zonas de luz o sombra…
+Si me quieres, quiéreme negra
+y blanca, y gris, verde, y rubia,
+y morena…
+
+Quiéreme día,
+quiéreme noche…
+¡Y madrugada en la ventana abierta!…
+Si me quieres, no me recortes:
+¡Quiéreme toda… O no me quieras.
