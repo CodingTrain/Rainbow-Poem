@@ -30,6 +30,8 @@ I love it so much I am editing a copy as a Pull Request
 
 Git is Awesome! 
 
+Rainbows.
+
 Oi! Esse é um repositório para poemas sobre arco iris :D
 
 I love it so much I am editing a copy as a Pull Request
