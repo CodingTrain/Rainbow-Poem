@@ -879,3 +879,13 @@ I love you - Unicorn
 
 ***********************************************************************
 赤巻紙青巻紙黄巻紙
+
+######################################################################
+24 July 2020
+This is my first time learning git and github
+4 years since this series of tutorials created
+But it's better to be late than never try, isn't it?
+The world is facing very different condition now
+I hope that all of you who had participated in this long train to always be remain healthy
+Stay at home, wear your mask whenever you go, don't forget to wash your hands
+Together, we can defeat this virus and make a better world
