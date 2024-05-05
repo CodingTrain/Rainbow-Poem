@@ -51,3 +51,5 @@ Your are awesome bro.
 
 getting into forking, cloning & pulling
 added empty
+
+ممنون از آموزش‌ خوب و دوست داشتنی‌! این یک خط به یادگار از زبان فارسی.
