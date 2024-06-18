@@ -1,6 +1,12 @@
 Poem by tutorial watchers
 
-Ceiling to the Stars
+Today is Tuesday,
+Second day of the week.
+If you thought it was Monday,
+You're wrong.
+
+# Ceiling to the Stars
+
 Up in the sky, where the stars shine bright,
 That’s where I will be;
 Enjoying the thrills of outer space,
