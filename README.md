@@ -40,6 +40,8 @@ I love it so much I am editing a copy as a Pull Request
 
 Dieses Gedicht ist das Beste!
 
+**Ini adalah latihan untuk mencuba konsep Pull Request, Issues, Commit, Merge dan Fork... Selamat Mencuba ;)**
+
 add a line to the README.md
 
 yo my boy.
