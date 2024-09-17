@@ -38,6 +38,8 @@ I love it so much I am editing a copy as a Pull Request
 
 ¡Hola! Esta es una base de datos con poemas acerca de arco iris! 🌈
 
+এইটা রেইনবো কবিতার জন্যে একটা ট্রেনিং রিপোসিটোরি। ফর্ক করে তো দেখুন, মজা লাগবে।
+
 Dieses Gedicht ist das Beste!
 
 add a line to the README.md
