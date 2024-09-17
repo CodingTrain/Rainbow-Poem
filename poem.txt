@@ -12,6 +12,7 @@ To get rain you need clouds.
 github is good
 p5js is great
 using them together makes me concentrate
+hello guys
 
 /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 Hallo Welt auch in Deutschland gib es einen Regenbogen ;0)
