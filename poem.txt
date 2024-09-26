@@ -879,3 +879,12 @@ I love you - Unicorn
 
 ***********************************************************************
 赤巻紙青巻紙黄巻紙
+
+************************************
+I have forked this poem,
+I will edit this poem,
+I can submit a pull request for this poem,
+I am happy about changing this poem,
+Oh and red, purple, and pink and stuff.
+**************************************
+
