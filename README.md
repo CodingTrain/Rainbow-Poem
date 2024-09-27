@@ -51,3 +51,5 @@ Your are awesome bro.
 
 getting into forking, cloning & pulling
 added empty
+
+I encourage you to learn about The Venus Project and its founder Jacque Fresco.
