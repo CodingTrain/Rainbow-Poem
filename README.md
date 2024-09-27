@@ -51,3 +51,7 @@ Your are awesome bro.
 
 getting into forking, cloning & pulling
 added empty
+
+```
+"If he/she can do, Why can't I"  Programming Motivational Quotes
+```
