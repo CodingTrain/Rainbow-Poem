@@ -1,0 +1,9 @@
+The Rainbow
+
+The rainbow has many colors,
+Red, orange, yellow, green,
+Blue, indigo, and violet,
+The prettiest sight I've ever seen.
+
+I added this file to learn Git,
+Sending a pull request bit by bit.
