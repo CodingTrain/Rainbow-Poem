@@ -879,3 +879,24 @@ I love you - Unicorn
 
 ***********************************************************************
 赤巻紙青巻紙黄巻紙
+
+***********************************************************************
+       .---.
+      /     \
+     |   O   |  HAL 9000
+      \     /
+       '---'
+
+by: Elijah Ko
+dated: 3rd June 2026
+inspired by the IBM 7094 synthesized speech and music in 1961 (programmed by John Larry Kelly, Jr., Carol Lochbaum, and Max Mathews)
+Fun Fact: This legendary recording directly inspired Arthur C. Clarke. He happened to be visiting Bell Labs during the 1961 demonstration. He was so struck by it that he later wrote it into the climax of 2001: A Space Odyssey, where the artificial intelligence HAL 9000 sings "Daisy Bell" as his cognitive functions are systematically powered down.
+
+Daisy, Daisy,
+Give me your answer, do!
+I'm half crazy,
+All for the love of you!
+It won't be a stylish marriage,
+I can't afford a carriage,
+But you'll look sweet upon the seat
+Of a bicycle built for two!
