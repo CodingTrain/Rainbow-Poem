@@ -1,5 +1,7 @@
 ﻿# Rainbow-Poem
 <p><strong>This is a training repo for my rainbow poem.
+Red, Orange, Yellow, Green, Blue, Indigo, Violet.
+These are the colours of the rainbow!!!
 You'll definitely love it!!
 
 and also you will learn while loving it !!(;
