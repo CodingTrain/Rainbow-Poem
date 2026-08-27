@@ -16,6 +16,6 @@ Yellow
 Red is hot   
 These are the colors of the rainbow.   
 And the unicorn.   
-Pony   
+Dogs on the rainbow.
 </p>*
 <hr>

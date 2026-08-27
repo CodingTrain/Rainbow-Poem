@@ -1,0 +1,15 @@
+Каждый    К   красный       red
+Охотник   О   оранжевый     orange
+Желает    Ж   жёлтый        yewllow
+Знать     З   зелёный       green
+Где       Г   голубой       cyan
+Сидят     С   синий         blue
+Фазаны    Ф   фиолетовывй   purple
+
+Each
+Hunter
+Wishes
+Know
+Where
+Sit
+Pheasants
