@@ -1,18 +1,15 @@
 <!---
-Choo Choo, fellow Coding Train viewer! 
+Choo Choo, fellow Coding Train passengers! 
 Thank you for contributing to this repository and for adding to this collection of poems.
 
-Before you submit your pull request, please check the following and place an 'X' between the bracket:
+Before you submit your pull request, here is a checklist that you can use as a guide.
 -->
 
-I confirm that
-- [ ] I have not violated the [Coding  Train Code of Conduct](https://github.com/CodingTrain/Code-of-Conduct)
-- [ ] No content written by others has been deleted
-- [ ] My addition doesn't disfigure content from other contributors
-- [ ] My addition doesn't include foul or not kids-friendly language
-- [X] I have learned something new about GIT and GitHub today!
+- [ ] This pull request follows [Coding  Train Code of Conduct](https://github.com/CodingTrain/Code-of-Conduct)
+- [ ] This pull request doesn't delete submissions from others.
+- [ ] This pull request is family friendly and doesn't include any NSFW content.
+- [x] I have learned something new about git and GitHub today!
 
 <!--- 
-Thanks for making the Coding Train community a fun and welcoming place for everyone.
-Now, feel free to tell us more about your addition! Check the preview tab at the top to check for any markdown-errors!
+Thanks for helping to make the Coding Train community a welcoming place.
 -->
